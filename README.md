@@ -18,4 +18,4 @@ Call in i3 configuration like this:
 * Add the name of the workspace to assign the app to`WORKSPACES`.
 
 ## rationale
-This is the only reliable and efficient way to launch multiple applications at launch of i3 I have found.
+This is the only reliable and efficient way to launch multiple applications in specific namespaces at launch of i3 I have found.
